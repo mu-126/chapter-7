@@ -4,7 +4,6 @@ import PostList from "./PostList";
 import PostDetail from "./PostDetail";
 import NotFoundPage from "./NotFoundPage";
 import ContactForm from "./ContactForm";
-// import type { Post } from "./types/Post";
 
 const App = () => {
   return (
